@@ -1,0 +1,15 @@
+[26/Jun/2020:23:10:14] (ℹ️): WordPress Instance Info:
+[26/Jun/2020:23:10:14] (ℹ️): Home URL : http://localhost
+[26/Jun/2020:23:10:14] (ℹ️): Site URL : http://localhost
+[26/Jun/2020:23:10:14] (ℹ️): WordPress Version : 5.4.2
+[26/Jun/2020:23:10:14] (ℹ️): Onboarding Version : 1.8.3
+[26/Jun/2020:23:10:14] (ℹ️): Multisite : No
+[26/Jun/2020:23:10:14] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[26/Jun/2020:23:10:14] (ℹ️): PHP Version : 7.2.24-0ubuntu0.18.04.6
+[26/Jun/2020:23:10:14] (ℹ️): HTTPS : No
+[26/Jun/2020:23:10:14] (ℹ️): PHP Max Execution Time : 30
+[26/Jun/2020:23:10:14] (ℹ️): PHP Max Input Vars : 1000
+[26/Jun/2020:23:10:14] (ℹ️): Max Upload Size : 2097152
+[26/Jun/2020:23:10:14] (ℹ️): Plugins:
+[26/Jun/2020:23:10:14] (ℹ️): [PLUGIN] Access Demo Importer : v1.0.2 (AccessPress Themes)
+[26/Jun/2020:23:10:14] (ℹ️): [PLUGIN] Ultimate Form Builder Lite : v1.4.5 (AccessPress Themes)
